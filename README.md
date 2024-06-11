@@ -4,6 +4,6 @@
 - 📫 How to reach me-call/text at 6398426144
 
 <!---
-arpirobin007/arpirobin007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+arpitrobin007/arpitrobin007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
